@@ -11,7 +11,7 @@
         let DROPBOX_APP_KEY = 'put key in here';
         let RECEIVE_URL = "http://put url in here/oauth_receiver.html";
 
-        let DEFAULT_AUTO_RUN = false;
+        let DEFAULT_AUTO_RUN = true;
         let DEFAULT_SOUND_ENABLED = true;
         let DEFAULT_APP_DIRECTORY = ROOT + "/files/";
         let DEFAULT_BPP = 32;
